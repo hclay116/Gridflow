@@ -1,0 +1,112 @@
+<!-- Layout: g -->
+<?xml version="1.0" ?>
+<network>
+	<tlLogic id="0" programID="my_program" offset="0" type="actuated">
+		<param key="max-gap" value="3.0"/>
+		<param key="detector-gap" value="2.0"/>
+		<param key="passing-time" value="2.0"/>
+		<param key="jam-threshold" value="30"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+	</tlLogic>
+	<tlLogic id="1" programID="my_program" offset="0" type="actuated">
+		<param key="max-gap" value="3.0"/>
+		<param key="detector-gap" value="2.0"/>
+		<param key="passing-time" value="2.0"/>
+		<param key="jam-threshold" value="30"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+	</tlLogic>
+	<tlLogic id="2" programID="my_program" offset="0" type="actuated">
+		<param key="max-gap" value="3.0"/>
+		<param key="detector-gap" value="2.0"/>
+		<param key="passing-time" value="2.0"/>
+		<param key="jam-threshold" value="30"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+	</tlLogic>
+	<tlLogic id="3" programID="my_program" offset="0" type="actuated">
+		<param key="max-gap" value="3.0"/>
+		<param key="detector-gap" value="2.0"/>
+		<param key="passing-time" value="2.0"/>
+		<param key="jam-threshold" value="30"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+	</tlLogic>
+	<tlLogic id="4" programID="my_program" offset="0" type="actuated">
+		<param key="max-gap" value="3.0"/>
+		<param key="detector-gap" value="2.0"/>
+		<param key="passing-time" value="2.0"/>
+		<param key="jam-threshold" value="30"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+	</tlLogic>
+	<tlLogic id="5" programID="my_program" offset="0" type="actuated">
+		<param key="max-gap" value="3.0"/>
+		<param key="detector-gap" value="2.0"/>
+		<param key="passing-time" value="2.0"/>
+		<param key="jam-threshold" value="30"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+	</tlLogic>
+	<tlLogic id="6" programID="my_program" offset="0" type="actuated">
+		<param key="max-gap" value="3.0"/>
+		<param key="detector-gap" value="2.0"/>
+		<param key="passing-time" value="2.0"/>
+		<param key="jam-threshold" value="30"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+	</tlLogic>
+	<tlLogic id="7" programID="my_program" offset="0" type="actuated">
+		<param key="max-gap" value="3.0"/>
+		<param key="detector-gap" value="2.0"/>
+		<param key="passing-time" value="2.0"/>
+		<param key="jam-threshold" value="30"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+	</tlLogic>
+	<tlLogic id="8" programID="my_program" offset="0" type="actuated">
+		<param key="max-gap" value="3.0"/>
+		<param key="detector-gap" value="2.0"/>
+		<param key="passing-time" value="2.0"/>
+		<param key="jam-threshold" value="30"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+	</tlLogic>
+	<tlLogic id="9" programID="my_program" offset="0" type="actuated">
+		<param key="max-gap" value="3.0"/>
+		<param key="detector-gap" value="2.0"/>
+		<param key="passing-time" value="2.0"/>
+		<param key="jam-threshold" value="30"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+	</tlLogic>
+	<tlLogic id="10" programID="my_program" offset="0" type="actuated">
+		<param key="max-gap" value="3.0"/>
+		<param key="detector-gap" value="2.0"/>
+		<param key="passing-time" value="2.0"/>
+		<param key="jam-threshold" value="30"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+	</tlLogic>
+	<tlLogic id="11" programID="my_program" offset="0" type="actuated">
+		<param key="max-gap" value="3.0"/>
+		<param key="detector-gap" value="2.0"/>
+		<param key="passing-time" value="2.0"/>
+		<param key="jam-threshold" value="30"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+		<phase duration="31" minDur="5" maxDur="45" state="GGggrrrrGGggrrrr"/>
+	</tlLogic>
+</network>

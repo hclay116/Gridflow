@@ -1,0 +1,4 @@
+__pycache__/
+sumo/
+.DS_Store
+../.DS_Store
